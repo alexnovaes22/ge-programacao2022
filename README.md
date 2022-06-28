@@ -5,4 +5,6 @@
 ## Teste ##
 
 ----
-![teste] https://static3.tcdn.com.br/img/img_prod/460977/teste_100485_1_cbc226c7d23a19c784fb4752ffe61337.png
+![teste](https://miro.medium.com/max/1280/0*i1v1In2Tn4Stnwnl.jpg)
+
+<img src= (https://miro.medium.com/max/1280/0*i1v1In2Tn4Stnwnl.jpg) width = "400" height = "400">
